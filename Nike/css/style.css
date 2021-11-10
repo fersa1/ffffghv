@@ -1,0 +1,156 @@
+header{
+    background: #322E41;
+}
+.meb-auto{
+    margin-left: auto !important;
+}
+.link-size{
+    font-size: 16px !important;
+}
+.getq{
+    color: #fff !important;
+}
+.getq:hover{
+    background: #fff;
+    color: #D47300 !important;
+}
+.section-direction{
+    padding-top: 167px;
+    background: url(../img/section-fon.jpg) center center / cover;
+    height: 500px;
+    color: #fff;
+    
+}
+.section-color{
+    background: #E5E5E5E5 !important;
+}
+.sction-direction h2{
+    font-size: 50px;
+}
+.sction-direction p{
+    font-size: 18px;
+}
+.container-box-6{
+    position: absolute;
+    width: 540px;
+    height: 467px;
+    left: 145px;
+    top: 528px;
+    background: #FFFFFF;
+    border-radius: 6px;
+    padding: 15px;
+}
+.container-box-6 p{
+font-size: 16px;
+color: #9B9B9B;
+}
+.container-box-6 h3{
+    color: #000;
+}
+.section-box{
+    position: absolute;
+width: 255px;
+height: 218.5px;
+left: 715px;
+top: 528px;
+
+background: #FFFFFF;
+border-radius: 6px;
+}
+.section-box h3{
+    color: #000;
+}
+.section-box p{
+    color:  #9B9B9B;;
+}
+.section-box1{
+    position: absolute;
+    width: 255px;
+    height: 219px;
+    left: 715px;
+    top: 776px;
+    
+    background: #FFFFFF;
+    border-radius: 6px;
+}
+.section-box2{
+    position: absolute;
+    width: 255px;
+    height: 218.5px;
+    left: 1000px;
+    top: 528px;
+    
+    background: #FFFFFF;
+    border-radius: 6px;
+}
+.section-box3{
+    position: absolute;
+    width: 255px;
+    height: 219px;
+    left: 1000px;
+    top: 776px;
+    
+    background: #FFFFFF;
+    border-radius: 6px;
+}
+.section-box1 h3{
+    color: #000;
+}
+.section-box1 p{
+    color:  #9B9B9B;;
+}
+.section-box2 h3{
+    color: #000;
+}
+.section-box2 p{
+    color:  #9B9B9B;;
+}
+.section-box3 h3{
+    color: #000;
+}
+.section-box3 p{
+    color:  #9B9B9B;;
+}
+footer form input, footer form textarea{
+    width: 350px;
+    outline: none;
+    border: none;
+}
+footer{
+    position: absolute;
+width: 1400px;
+height: 260px;
+left: 1px;
+top: 1055px;
+background: #322E41;
+}
+footer form textarea{
+margin-top: 10px;
+height: 86px;
+border-radius: 6px;
+}
+footer form input{
+    border-radius: 6px;
+}
+footer form button{
+background: #544294;
+border-radius: 6px;
+width: 350px;
+height: 25px;
+outline: none;
+border: none;
+}
+nav ul li {
+    list-style: none !important;
+    
+}
+nav ul li a{
+    text-decoration: none !important;
+    color: #fff;
+}
+nav ul li a:hover{
+    color: #D47300 ;
+}
+.footer-top{
+    padding-top: 37px ;
+}
